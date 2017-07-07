@@ -1,14 +1,16 @@
 # golang-hello-world
 Hello world in Go lang.
 
-Organização:
+# Organização:
 
 pasta-do-usuario/go/bin
+
 pasta-do-usuario/go/pkg
+
 pasta-do-usuario/go/src/hello/hello.go
 
 
-Instalação no Linux (Ubuntu):
+# Instalação no Linux (Ubuntu):
 
 1 - Fazer download do arquivo .tar e extraí-lo para a pasta /usr/local com o seguinte comando:
 	
