@@ -4,12 +4,12 @@ Hello world in Go lang.
 Organização:
 
 pasta-do-usuario/
-└── go
-    ├── bin
-    ├── pkg
-    └── src
-        └── hello
-           └── hello.go
+	go/
+    	bin
+    	pkg
+    	src/
+        	hello/
+           		hello.go
 
 
 Instalação no Linux (Ubuntu):
