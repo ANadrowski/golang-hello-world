@@ -5,11 +5,11 @@ Organização:
 
 pasta-do-usuario/
 	go/
-    	bin
-    	pkg
-    	src/
-        	hello/
-           		hello.go
+		bin
+		pkg
+		src/
+			hello/
+				hello.go
 
 
 Instalação no Linux (Ubuntu):
